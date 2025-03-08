@@ -59,6 +59,16 @@ Modify the layout files or override styles to change colors, fonts, and design e
 
 ---
 
+## 📽 Demo
+
+### 🎯 Single Selection Mode
+![Single Selection](https://github.com/Suganth-S/MultiSelectDatePicker/blob/master/Single%20Selection.gif?raw=true)
+
+### 🎯 Multiple Selection Mode
+![Multiple Selection](https://github.com/Suganth-S/MultiSelectDatePicker/blob/master/Multi%20Selection.gif?raw=true)
+
+---
+
 ## 📝 License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
