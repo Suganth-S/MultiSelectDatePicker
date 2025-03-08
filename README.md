@@ -59,6 +59,11 @@ Modify the layout files or override styles to change colors, fonts, and design e
 
 ---
 
+## 📝 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+---
+
 ## 📧 Contact
 For any inquiries, feature requests, or issues, please open an **issue** in the repository or contact me at `suganthsece86@gmail.com`.
 
